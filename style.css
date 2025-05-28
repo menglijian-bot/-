@@ -1,0 +1,3 @@
+#cn2en_toggle_btn, #cn2en_dialog, #cn2en_mask, #jxtrans_selbtn {
+  z-index: 2147483647 !important;
+}
